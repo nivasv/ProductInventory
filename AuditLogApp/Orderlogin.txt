@@ -1,0 +1,6 @@
+UserName: 	Log Date(MM/DD/YYYY): 	Log Time(hh:mm:ss) :  	Activity Done
+-----------------------------------------------------------------------------------
+admin		09/04/2015 		21:59:34			login
+admin		09/04/2015 		21:59:46			logout
+order1		09/04/2015 		21:59:53			login
+order1		09/04/2015 		22:00:13			logout

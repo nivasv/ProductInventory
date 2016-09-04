@@ -1,0 +1,3 @@
+dbuser=remote
+dbpassword=remote_pass
+database_ip=localhost
